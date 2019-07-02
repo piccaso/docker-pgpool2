@@ -1,0 +1,5 @@
+version: "2"
+services:
+  pgpool:
+    build: .
+    image: 0xff/pgpool
